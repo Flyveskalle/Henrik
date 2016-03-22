@@ -116,3 +116,6 @@ C:\Workspaces\test\umb\Henrik\Henrik\Henrik.Web\bin\UmbracoExamine.xml
 C:\Workspaces\test\umb\Henrik\Henrik\Henrik.Web\obj\Debug\Henrik.Web.csprojResolveAssemblyReference.cache
 C:\Workspaces\test\umb\Henrik\Henrik\Henrik.Web\obj\Debug\Henrik.Web.dll
 C:\Workspaces\test\umb\Henrik\Henrik\Henrik.Web\obj\Debug\Henrik.Web.pdb
+C:\Workspaces\test\umb\Henrik\Henrik\Henrik.Web\bin\Skybrud.Social.dll
+C:\Workspaces\test\umb\Henrik\Henrik\Henrik.Web\bin\Skybrud.Social.Umbraco.dll
+C:\Workspaces\test\umb\Henrik\Henrik\Henrik.Web\bin\Skybrud.Social.xml
